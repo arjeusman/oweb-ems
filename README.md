@@ -1,0 +1,2 @@
+<h1>OWEB-EMS</h1>
+<p>OWEB-EMS (Online Web-based Enrollment Management System) revolutionizes enrollment management, offering a seamless digital platform to streamline tasks effortlessly. OWEB-EMS simplifies every step, empowering administrators and users alike with intuitive features for efficient enrollment management. Say goodbye to paperwork and hello to a smoother, more accessible enrollment management experience!</p>
